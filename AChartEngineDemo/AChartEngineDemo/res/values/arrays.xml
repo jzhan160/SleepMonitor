@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="items">
+		<item>High α波</item>		
+		<item>Low α波</item>
+		<item>High β波</item>
+		<item>Low β波</item>
+		<item>Mid γ波</item>
+		<item>Low γ波</item>
+	</string-array>
+ </resources>
+
